@@ -1,0 +1,18 @@
+
+1. Edit: Make changes or create new files in the working directory
+   $ echo "# My Project" > README.md
+
+2. Check Status: Inspect modified or untracked files
+   $ git status
+
+3. Stage (Add): Move changes to the staging area
+   $ git add README.md git_workflow.txt
+
+4. Verify Staged Files: Confirm changes are ready for commit
+   $ git status
+
+5. Commit: Save staged changes to repository history with a message
+   $ git commit -m "docs: add README and document git workflow cycle"
+
+6. Push: Upload local commits to the remote repository
+   $ git push origin main

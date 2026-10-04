@@ -1,0 +1,40 @@
+dev_workspace:
+total 4
+drwxr-xr-x  3 ykalboun _amman   22 Oct  1 13:48 .
+drwx------ 17 ykalboun _amman 4096 Oct  1 14:08 ..
+drwxr-xr-x  4 ykalboun _amman   33 Oct  1 13:51 projects
+
+dev_workspace/projects:
+total 0
+drwxr-xr-x 4 ykalboun _amman 33 Oct  1 13:51 .
+drwxr-xr-x 3 ykalboun _amman 22 Oct  1 13:48 ..
+drwxr-xr-x 3 ykalboun _amman 19 Oct  1 13:48 archives
+drwxr-xr-x 4 ykalboun _amman 37 Oct  1 13:51 web
+
+dev_workspace/projects/archives:
+total 0
+drwxr-xr-x 3 ykalboun _amman 19 Oct  1 13:48 .
+drwxr-xr-x 4 ykalboun _amman 33 Oct  1 13:51 ..
+drwxr-xr-x 2 ykalboun _amman  6 Oct  1 13:48 tools
+
+dev_workspace/projects/archives/tools:
+total 0
+drwxr-xr-x 2 ykalboun _amman  6 Oct  1 13:48 .
+drwxr-xr-x 3 ykalboun _amman 19 Oct  1 13:48 ..
+
+dev_workspace/projects/web:
+total 0
+drwxr-xr-x 4 ykalboun _amman 37 Oct  1 13:51 .
+drwxr-xr-x 4 ykalboun _amman 33 Oct  1 13:51 ..
+drwxr-xr-x 2 ykalboun _amman  6 Oct  1 13:51 backend
+drwxr-xr-x 2 ykalboun _amman  6 Oct  1 13:51 frontend
+
+dev_workspace/projects/web/backend:
+total 0
+drwxr-xr-x 2 ykalboun _amman  6 Oct  1 13:51 .
+drwxr-xr-x 4 ykalboun _amman 37 Oct  1 13:51 ..
+
+dev_workspace/projects/web/frontend:
+total 0
+drwxr-xr-x 2 ykalboun _amman  6 Oct  1 13:51 .
+drwxr-xr-x 4 ykalboun _amman 37 Oct  1 13:51 ..
